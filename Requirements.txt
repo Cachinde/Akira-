@@ -1,0 +1,6 @@
+flask
+requests
+sqlite3
+pandas
+openai
+pywhatkit
